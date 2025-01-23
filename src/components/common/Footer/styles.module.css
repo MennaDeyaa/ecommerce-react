@@ -1,0 +1,10 @@
+.footerContainer {
+    margin-top: auto;
+    /* da bykhleha tnzl l t7t as i give him in the parent
+     display: flex;
+    flex-direction: column;
+    */
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid black;
+  }
